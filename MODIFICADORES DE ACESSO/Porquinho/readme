@@ -1,0 +1,11 @@
+O sistema deverá:
+
+Gerenciar um cofrinho do tipo Porquinho capaz de guardar moedas e itens.
+As moedas devem ser criadas através de uma enum.
+Ambos moedas e itens tem um método getVolume() e getLabel().
+O volume do cofre incrementa conforme ele recebe itens e moedas.
+A lógica da utilização do cofre é:
+Para inserir moedas e itens o cofre deve estar inteiro.
+Para extrair moedas e itens o cofre deve estar quebrado.
+Ao quebrar, o volume do porco deve ser zerado e o status de broken deve ser alterado para true.
+Ao extrair moedas e itens, os atribuitos valor e itens devem se tornar listas vazias.
