@@ -1,0 +1,11 @@
+filter
+get_men: retorne uma lista com os homens.
+get_calm_women: retorne uma lista com as mulheres stress menor que 10.
+sort
+sort: ordene a lista pelo valor real
+sort_stress: ordene a lista por nível de stress
+reverse
+reverse: faça uma função que não altere a lista original, mas retorne uma nova lista invertida
+set
+unicos: retorne uma nova lista sem repetição de valores
+repetidos: retorne uma nova lista apenas com os valores repetidos
